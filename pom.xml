@@ -37,7 +37,7 @@
     <repository>
         <id>4df46e30af4e</id>
         <name>4df46e30af4e-releases</name>
-        <url>http://54.187.50.239:8080/artifactory/ext-release-local</url>
+        <url>http://54.200.39.187:8080/artifactory/ext-release-local</url>
     </repository>
 </distributionManagement>
 
