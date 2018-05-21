@@ -32,16 +32,6 @@
 		</plugin>
 	</plugins>
 	</build>
-  
-<distributionManagement>
-    <repository>
-        <id>4df46e30af4e</id>
-        <name>4df46e30af4e-releases</name>
-        <url>http://35.163.10.114:8080/artifactory/ext-release-local</url>
-    </repository>
-</distributionManagement>
-
-
 
 
 </project>
